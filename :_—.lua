@@ -250,4 +250,4 @@ spawn(function()
     end
 end)
 
-print("✅ AutoShoot GUI (with small drag bar) loaded — geser dari strip atas :)")
+print("✅ AutoShoot GUI (with small drag bar) loaded —:)")
